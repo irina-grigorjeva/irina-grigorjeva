@@ -1,8 +1,8 @@
-# Tere! 👋 Mina olen [Sinu Nimi]
+# Tere! 👋 Mina olen [Irina Grigirjeva]
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
  
-Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmi järgi ja ehitan oma esimest professionaalset portfooliot.
  
 ## 🛠️ Tehnoloogiad, mida õpin
  
