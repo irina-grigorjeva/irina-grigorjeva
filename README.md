@@ -1,4 +1,4 @@
-# Tere! 👋 Mina olen [Irina Grigirjeva]
+# Tere! 👋 Mina olen Irina Grigirjeva
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
  
